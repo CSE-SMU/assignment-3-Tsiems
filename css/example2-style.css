@@ -6,7 +6,7 @@ body {
 #card-teach-action {
   position: absolute;
   top: 48%;
-
+  left: 70%;
   background-color: gray;
 }
 
@@ -16,6 +16,10 @@ body {
 
 .jumbotron {
   background-color: black;
+}
+
+.jumbotron img {
+  width: 100%;
 }
 
 .white-text {

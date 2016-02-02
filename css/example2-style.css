@@ -1,0 +1,27 @@
+
+body {
+  background-color: black;
+}
+
+#card-teach-action {
+  position: absolute;
+  top: 48%;
+
+  background-color: gray;
+}
+
+#card-contact-form {
+  background-color: #F68300;
+}
+
+.jumbotron {
+  background-color: black;
+}
+
+.white-text {
+  color: white;
+}
+
+.navbar {
+  background-color: #F68300;
+}
